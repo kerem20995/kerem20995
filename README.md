@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kerem
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning frontend web development
+- 👀 I’m interested in development
+- 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
